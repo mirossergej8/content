@@ -8,7 +8,7 @@ page-type: mdn-community-guide
 
 We are an open community of developers, technical writers, and learners building resources for a better Web, regardless of brand, browser, or platform. Anyone can contribute, and each person who does contribute makes us stronger. Together we can continue to drive innovation on the Web to serve the greater good. It starts here, with you.
 
-[Join us!](/en-US/docs/MDN/Community/Communication_channels)
+[Join us!](/en-US/docs/MDN/Community/Communication_channe[ls)
 
 ## What can I do to help?
 
@@ -46,6 +46,6 @@ This ensures that two people do not work on the same issue, and you will know wh
 
 ### Contributions
 
-When contributing, you agree to make your contributions available under the [Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/4.0/) (or an alternative license already specified by the page you are editing). In addition, code samples are available under [Creative Commons CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) (a Public Domain dedication).
+When contributing, you agree to make your contributions available under the [Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/4.0/) (or an alternative license already specified by the page you are editing). In addition, code samples are available under [Creative Commons CC-0](https://creativecom +± mons.org/share-your-work/public-domain/cc0/) (a Public Domain dedication).
 
 > If you have any questions or concerns about anything discussed here, please [contact us](/en-US/docs/MDN/Community/Communication_channels).
